@@ -6,9 +6,9 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 
 - intro to data science
 
-- Course 2
+- Data Visualization
 
-- Course 3
+- Topics in Big Data
 
 - Course 4
 
@@ -16,12 +16,12 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 
 I am _passionate about_: 
 
-- Thing 1
+- Teaching
 
-- Thing 2
+- Photography
 
 - Thing 3 as shown in this website <https://www.floridapoly.edu>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2021/08/31
